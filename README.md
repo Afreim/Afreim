@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey, i'm Afreim! 👋
+---
+Hi, my name is Serkan. I usually spend my time playing games or trying create new projects with the software.
 
-<!--
-**Afreim/Afreim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Favorite Games:
+- Minecraft
+- Among Us
+- Mafia III
+- Mount & Blade: Bannerlord or Warband
 
-Here are some ideas to get you started:
+## ⚡ Contact:
+[<img align="left" alt="YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111363.png" />][discord]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact with discord for business and other.
+
+[discord]: https://discord.gg/ehgpbg
+[youtube]: https://youtube.com/afreim
+[instagram]: https://instagram.com/afreim
