@@ -1,10 +1,12 @@
-## Hey, i'm Afreim! 👋
+## Hey, i'm Havi! 👋
 Hi, my name is Serkan. I usually spend my time playing games or trying create new projects with the software.
 
 ## 🎮 Favorite Games:
 - Minecraft
 - Among Us
-- Mafia III
+- Mafia II
+- God of War
+- Assassin's Creed Valhalla
 - Mount & Blade: Bannerlord or Warband
 
 ## ⚡ Contact:
