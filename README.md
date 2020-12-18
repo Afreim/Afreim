@@ -18,5 +18,5 @@ Hi, my name is Serkan. I usually spend my time playing games or trying create ne
 Contact with discord for business and other.
 
 [discord]: https://discord.gg/ehgpbg
-[youtube]: https://youtube.com/afreim
-[instagram]: https://instagram.com/afreim
+[youtube]: https://youtube.com/havi
+[instagram]: https://instagram.com/havi
